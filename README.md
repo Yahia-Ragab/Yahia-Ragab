@@ -65,6 +65,8 @@ environments.
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yahia-Ragab/Yahia-Ragab/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Yahia-Ragab/Yahia-Ragab/output/pacman-contribution-graph.svg">
 </picture>
+![Light](https://raw.githubusercontent.com/Yahia-Ragab/Yahia-Ragab/output/pacman-contribution-graph.svg#gh-light-mode-only)
+![Dark](https://raw.githubusercontent.com/Yahia-Ragab/Yahia-Ragab/output/pacman-contribution-graph-dark.svg#gh-dark-mode-only)
 
 ---
  
